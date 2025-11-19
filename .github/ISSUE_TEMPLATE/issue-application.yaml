@@ -1,5 +1,5 @@
-name: Sample minimal Allocator.tech issue template
-description: Sample minimal Allocator.tech issue template
+name: DataCap Application
+description: DataCap Application
 body:
 - type: input
   attributes:
